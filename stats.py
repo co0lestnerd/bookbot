@@ -15,7 +15,7 @@ def get_num_char(text):
     return characters
 
 def sort_on(chardict):
-    #create a new list
+    #create a new list that will contain multiple dictionaries
     charValues = []
 
     #for each letter in the supplied dictionary(chardict) add it's letter and letter value to a new dictionary in a list
